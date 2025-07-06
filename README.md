@@ -6,11 +6,16 @@ To use this repository, you had better to use venv envitonement for protected yo
 
 ```bash
 python3 -m venv .env
-'''
+```
 
 # loading environmet
 Every time, you need to execute following command when you open a new shell.
 
 ```bash
 source .env/bin/activate
+```
+
+# execution 
+```bash
+python3 main.py
 ```
